@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @severusamit
+- 👋 Hi, I'm Amit Kumar
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning ...DSA using C, C++,Python
 - 💞️ I’m looking to collaborate on ...
